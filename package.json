@@ -1,0 +1,57 @@
+{
+  "name": "Sportify",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^4.0.0",
+    "firebase": "^3.7.3",
+    "prop-types": "^15.5.8",
+    "react": "15.4.2",
+    "react-native": "0.42.3",
+    "react-native-action-button": "^2.6.9",
+    "react-native-android-tablayout": "^0.3.0",
+    "react-native-atoz-listview": "0.0.7",
+    "react-native-clean-form": "^0.4.1",
+    "react-native-datepicker": "^1.5.1",
+    "react-native-easy-grid-view": "^0.1.1",
+    "react-native-elements": "^0.12.2",
+    "react-native-fbsdk": "^0.5.0",
+    "react-native-gifted-chat": "^0.1.4",
+    "react-native-google-signin": "^0.9.0",
+    "react-native-image-header": "^1.0.1",
+    "react-native-image-picker": "^0.26.2",
+    "react-native-image-resizer": "^0.1.1",
+    "react-native-list-popover": "^1.0.5",
+    "react-native-list-view-select": "^1.0.4",
+    "react-native-maps": "git+https://github.com/airbnb/react-native-maps.git",
+    "react-native-maps-google": "^1.1.4",
+    "react-native-material-ui": "^1.9.0",
+    "react-native-md-textinput": "^2.0.4",
+    "react-native-modal-picker": "0.0.16",
+    "react-native-multiple-choice": "0.0.8",
+    "react-native-radio-buttons": "^0.14.0",
+    "react-native-responsive-image": "^2.1.0",
+    "react-native-scrollable-tab-view": "^0.7.4",
+    "react-native-searchbar": "^1.10.0",
+    "react-native-select-multiple": "^1.0.3",
+    "react-native-swiper": "^1.5.4",
+    "react-native-tiles": "^1.0.1",
+    "react-native-vector-icons": "^4.0.0",
+    "react-native-xtabbar": "^0.2.1",
+    "react-navigation": "^1.0.0-beta.11"
+  },
+  "devDependencies": {
+    "babel-jest": "19.0.0",
+    "babel-plugin-module-resolver": "^2.7.0",
+    "babel-preset-react-native": "1.9.1",
+    "jest": "19.0.2",
+    "react-test-renderer": "15.4.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

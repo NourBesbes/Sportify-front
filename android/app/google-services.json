@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "240411223918",
+    "project_id": "sportify-163414"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240411223918:android:2e9cfcd5919a4bb0",
+        "android_client_info": {
+          "package_name": "com.sportify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240411223918-n68riu5pfau9v6ipq7oi3tmphsptd4mk.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "240411223918-1kk3bih9mjrud2pfk9m792geme6p1kg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sportify",
+            "certificate_hash": "f84325766aabcdf8d60d84c37022cb61e176133c"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh-UCZOIsX-WmGytRgK8zH5zgOLTqH-Vc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
